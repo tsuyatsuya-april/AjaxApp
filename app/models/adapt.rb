@@ -1,0 +1,2 @@
+class Adapt < ApplicationRecord
+end
